@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  color: green;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 8px yellow;
+  margin: 70px 0;
+  font-family: 'Josefin Slab', serif;
+}
+
+.image_css {
+  display: flex;
+  justify-content: center;
+}
+
+.image_css img {
+  width: 250px;
+  height: 300px;
+  /* margin: auto; */
+}
